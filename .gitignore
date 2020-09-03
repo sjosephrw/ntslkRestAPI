@@ -1,0 +1,7 @@
+#ignore node_modules folder
+node_modules/
+#ignore config.env file
+src/config.env
+#ignore the .cache folder
+.cache/
+
